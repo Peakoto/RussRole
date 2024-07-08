@@ -83,14 +83,3 @@ while True:
         print(bl)
         time.sleep(1)
         print("Dealer: 'Now it's your turn'")
-
-
-
-
-
-
-
-
-# add choice play or quit at the start
-# add timer every word
-# make the stakes higher or lower randomly
